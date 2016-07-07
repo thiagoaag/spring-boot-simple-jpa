@@ -1,0 +1,8 @@
+br/com/zup/domain/User.class
+br/com/zup/configuration/WebConfiguration.class
+br/com/zup/repository/DocumentRepository.class
+br/com/zup/conrtoller/UserController.class
+br/com/zup/domain/Document.class
+br/com/zup/AuditZupApplication.class
+br/com/zup/repository/UserRepository.class
+br/com/zup/configuration/RepositoryConfiguration.class

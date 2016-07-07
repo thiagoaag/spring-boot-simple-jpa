@@ -1,0 +1,9 @@
+/home/thiago/temp/spring-boot-simple-jpa/src/main/java/br/com/zup/domain/Document.java
+/home/thiago/temp/spring-boot-simple-jpa/src/main/java/br/com/zup/configuration/RepositoryConfiguration.java
+/home/thiago/temp/spring-boot-simple-jpa/src/main/java/br/com/zup/conrtoller/UserController.java
+/home/thiago/temp/spring-boot-simple-jpa/src/main/java/br/com/zup/configuration/JaversSpringMongoApplicationConfig.java
+/home/thiago/temp/spring-boot-simple-jpa/src/main/java/br/com/zup/domain/User.java
+/home/thiago/temp/spring-boot-simple-jpa/src/main/java/br/com/zup/repository/DocumentRepository.java
+/home/thiago/temp/spring-boot-simple-jpa/src/main/java/br/com/zup/configuration/WebConfiguration.java
+/home/thiago/temp/spring-boot-simple-jpa/src/main/java/br/com/zup/repository/UserRepository.java
+/home/thiago/temp/spring-boot-simple-jpa/src/main/java/br/com/zup/AuditZupApplication.java
